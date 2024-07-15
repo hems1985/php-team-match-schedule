@@ -2,7 +2,7 @@
 <?php
 
     // Number of teams in each pool
-    $teamsPerPool = 12;
+    $teamsPerPool = 7;
 
     // Generate teams for Pool 1 and Pool 2
     $pool1 = [];
